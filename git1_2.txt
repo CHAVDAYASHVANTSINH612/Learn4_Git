@@ -3,3 +3,5 @@ fjejnje
 git not staged and see diff
 
 hello
+
+cmt3
