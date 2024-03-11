@@ -1,15 +1,7 @@
-# Ignore compiled files
-*.class
-*.jar
-
-# Ignore log files
-*.log
-
-# Ignore build output directories
-/target/
-/out/
 
 # Ignore configuration files with sensitive information
 config.yaml
 secrets.json
 git1_2.txt
+ignorethis.txt
+ignore2.txt
